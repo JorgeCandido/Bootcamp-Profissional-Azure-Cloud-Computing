@@ -23,8 +23,8 @@
 > 2.3. Azure Files
 > 2.4. Criando e Usando Azure Files
 > 2.5. Ingestão de Dados
-> 2.6. Azure Table Storage
-> 2.7. Criando e Usando Azure Table Storage
+> 2.6. Azure Table Storage 
+> 2.7. Criando e Usando Azure Table Storage 
 > 2.8. Azure Blob Storage
 > 2.9. Criando e Usando Azure Blob Storage
 > 2.10. Data Lake Storage Gen2
