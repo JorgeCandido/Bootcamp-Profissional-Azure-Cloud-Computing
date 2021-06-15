@@ -41,8 +41,8 @@
 <br>
 
 > ## Capítulo 5. Serviços de Computação Básica  
-> 5.1. Computação Básica do Azure, Virtual Machines, Containers e Windows Virtual Desktop. 
-> 5.2. Demo – Implantando uma Virtual Machine.                     
+> 5.1. Computação Básica do Azure, Virtual Machines, Containers e Windows Virtual Desktop.  
+> 5.2. Demo – Implantando uma Virtual Machine.
 
 <br>
 

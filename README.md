@@ -10,7 +10,7 @@ Resumo: Este Bootcamp tem o objetivo apresentar os conceitos fundamentais de com
 
 ## Conteúdo do bootcamp
 
-| [ABERTURA](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/tree/main/Abertura) | [MÓDULO 1](https://github.com/JorgeCandido/Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/M%C3%B3dulo%201)| [MÓDULO 2](https://github.com/JorgeCandido/Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/M%C3%B3dulo%202) | [MÓDULO 3](A iniciar) | [MÓDULO 4](A iniciar) | [DESAFIO FINAL](A iniciar)|
+| [ABERTURA](https://github.com/JorgeCandido/Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/Abertura) | [MÓDULO 1](https://github.com/JorgeCandido/Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/M%C3%B3dulo%201)| [MÓDULO 2](https://github.com/JorgeCandido/Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/M%C3%B3dulo%202) | [MÓDULO 3](A iniciar) | [MÓDULO 4](A iniciar) | [DESAFIO FINAL](A iniciar)|
 |---------|--------|---------|---------|---------|-------------|
 |`4h`     |`32h`   |`32h`    |`32h`    |`32h`    |`12h`        |   
 |Aquecimento e Regras do Jogo |Introdução ao Azure e Infraestrutura Básica de TI como Serviço |Serviços de Armazenamento, Banco de Dados e Analytics| Soluções para Desenvolvimento e Ferramentas de Gerenciamento |Soluções de Segurança, Governança, Compliance e Migração |Desafio Final| 
